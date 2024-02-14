@@ -9,7 +9,7 @@ class Test(MDApp):
             '''
 BoxLayout:
     orientation:'vertical'
-    MDToolbar:
+    MDTopAppBar:
         title: 'Programming'
         md_bg_color: app.theme_cls.primary_color
         specific_text_color: 1, 1, 1, 1
