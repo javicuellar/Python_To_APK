@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Repositorio encontrado en](https://morioh.com/a/6b9ef6ac178d/how-to-build-an-android-app-with-python-and-kivy-or-convert-py-to-apk)
+### [Repositorio encontrado en morioh.com de Avanya Shina](https://morioh.com/a/6b9ef6ac178d/how-to-build-an-android-app-with-python-and-kivy-or-convert-py-to-apk)
 
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
